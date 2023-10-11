@@ -27,15 +27,6 @@
     color: #fff; /* Cor do texto dos links */
 }
 
-/* CÓDIGOS CARD */
-* {
-    font-family: Segoe UI;
-}
-
-body {
-    margin: 0;
-    color: #FFF;
-}
 
 .container {
     width: 28%;
@@ -155,3 +146,47 @@ body {
 .paragrafo-preto {
     color: black;
 }
+.redes-socias, .direitos-reservados{
+    display: inline-block;
+}
+.divs-rodape {
+    text-align: center;
+}
+.redes-socias{
+    margin-right: 750px;
+}
+/*------------------Bebidas--------------------*/
+
+.titulo-bebidas {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px 4px rgba(9, 112, 176, 0.5);
+}
+
+.texto-bebidas{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px 4px rgba(9, 112, 176, 0.5);
+    font-size: 190%;
+}
+.cafe-da-manha{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px 4px rgba(9, 112, 176, 0.5);
+}
+.cafe-da-manha0, .cafe-da-manha1, .cafe-da-manha2, .cafe-da-manha3{
+    display: inline-block;
+}
+.cafe-da-manha0{
+    margin-right: 250px;
+}
+.cafe-da-manha1{
+    margin-right: 250px;
+}
+.cafe-da-manha2{
+    margin-right: 250px;
+}
+.cafe-da-manha3{
+    margin-right: 250px;
+}
+
