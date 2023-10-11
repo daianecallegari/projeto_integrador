@@ -4,11 +4,15 @@
     margin: 0 auto;  
 }
 
+.ul-contato{
+   display: center;
+}
 /* RODAPÉ */
 .nav{
     display: flex;
     justify-content:center;
-    background-color:#137dc5
+    background-color:#137dc5;
+    
 }
 
 .nav ul {
