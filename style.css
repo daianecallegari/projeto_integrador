@@ -194,3 +194,39 @@
     margin-right: 250px;
 }
 
+/*-----------------------------Carnes bovinas ------------------------------ */
+.titulo {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px 4px rgba(9, 112, 176, 0.5);
+    margin-top: 25px;
+}
+
+.texto-inicial{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px 4px rgba(9, 112, 176, 0.5);
+    font-size: 100%;
+    margin-top: 25px;
+}
+.carnes-bovinas{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow: 2px 2px 4px rgba(9, 112, 176, 0.5);
+}
+.Carne-bovina{
+    margin-right: 250px;
+    display: inline-block;
+}
+.carne-louca{
+    margin-right: 250px;
+    display: inline-block;
+}
+.carne{
+    margin-right: 250px;
+    display: inline-block;
+}
+.carne1{
+    margin-right: 250px;
+    display: inline-block;
+}
